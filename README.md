@@ -52,5 +52,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> -->
 </div>
-
-nwo this is the file and it still shows error fetching resources.. i commented a line.. dont change it
