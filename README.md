@@ -37,7 +37,6 @@
   <h3>📊 GitHub Stats</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=VickyRohilla862&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyRohilla862&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Top Languages" />
   </p>
 </div>
 
@@ -48,7 +47,4 @@
   <a href="mailto:vaibhavrohilla862@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-</div>
+  </div>
