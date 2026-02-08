@@ -36,8 +36,8 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=VickyRohilla862&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyRohilla862&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Top Languages" />
   </p>
 </div>
 
