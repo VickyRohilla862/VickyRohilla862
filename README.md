@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there,%20I'm%20Vicky!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20@%20Govt.%20College%20Bahadurgarh&descAlignY=55&descAlign=60" width="100%"/>
+</div>
 
-<!--
-**VickyRohilla862/VickyRohilla862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=BCA+Student;Web+Development+Enthusiast;Learning+C,+Python,+and+JS;Open+Source+Beginner" alt="Typing SVG" />
+  </a>
+</h2>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>👋 About Me</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am a <strong>BCA student</strong> at <strong>Government College Bahadurgarh</strong> with a passion for coding and software development. I am currently building my foundation in programming languages and web technologies. I love learning new things and am excited to start my journey with Git and GitHub!
+</p>
+
+---
+
+<div align="center">
+  <h3>🛠️ Languages and Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Vicky's Top Languages" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
