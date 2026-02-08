@@ -3,8 +3,8 @@
 </div>
 
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=BCA+Student;Web+Development+Enthusiast;Learning+C,+Python,+and+JS;Open+Source+Beginner" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" style="text-decoration:none;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=BCA+Student;Web+Development+Enthusiast;Learning+C,+Python,+and+JS;Open+Source+Beginner" alt="Typing SVG" border="0" />
   </a>
 </h2>
 
@@ -15,6 +15,12 @@
 <p align="center">
   I am a <strong>BCA student</strong> at <strong>Government College Bahadurgarh</strong> with a passion for coding and software development. I am currently building my foundation in programming languages and web technologies. I love learning new things and am excited to start my journey with Git and GitHub!
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BCA-Student-2196F3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collab-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Daily-FFB300?style=flat-square" />
+</div>
 
 ---
 
@@ -45,8 +51,8 @@
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavrohilla862@gmail.com" target="_blank" style="text-decoration:none;" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="text-decoration:none;"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavrohilla862@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" border="0" />
   </a>
   <!-- <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
