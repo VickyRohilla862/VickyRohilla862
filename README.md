@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Learning-Daily-FFB300?style=flat-square" />
 </div>
 
----
 
 <div align="center">
   <h3>🛠️ Languages and Tools</h3>
@@ -37,7 +36,6 @@
   </p>
 </div>
 
----
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
@@ -45,16 +43,15 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VickyRohilla862&theme=tokyonight" height="170" alt="Vicky's Stats" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VickyRohilla862&theme=tokyonight" height="170" alt="Vicky's Top Languages" />
   </p>
-</div>
+<!-- </div>
 
----
 
-<div align="center">
+<!-- <div align="center">
   <h3>📫 Connect with Me</h3>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaibhavrohilla862@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" border="0" />
   </a>
-  <!-- <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-</div>
+  </a>
+</div> -->
