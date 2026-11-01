@@ -1,5 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hi%2C%20I'm%20Vicky%20%F0%9F%91%8B&fontSize=64&fontAlignY=38&desc=BCA%20Student%20%7C%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
