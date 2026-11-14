@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BCA+Student+%40+Govt.+College+Bahadurgarh;Building+with+Python%2C+JavaScript+%26+C;Passionate+about+Coding+%26+Problem+Solving;Learning+something+new+every+day" alt="Typing SVG" />
 </a>
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VickyRohilla862&label=Profile%20Views&color=2196f3&style=for-the-badge)
